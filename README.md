@@ -6,8 +6,6 @@ A responsive website for Hollywood & Bollywood movie reviews in Urdu.
 ---
 
 ## 🚀 لائیو ڈیمو | Live Demo  
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://sufii429.github.io/film-blog)  
-[film-blog.netlify.app](https://film-blog.netlify.app)
 
 ---
 
