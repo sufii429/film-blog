@@ -15,21 +15,4 @@ A responsive website for Hollywood & Bollywood movie reviews in Urdu.
 - 📱 **مکمل ریسپانسیو ڈیزائن** (ڈیسک ٹاپ، ٹیبلیٹ، موبائل)  
 - 🖋️ **اردو فونٹ سپورٹ** (Noto Nastaliq Urdu)  
 - 🎨 جدید اور صاف UI/UX  
-- 📸 فلم پوسٹرز کے ساتھ تبصرے  
-
----
-
-## 🛠️ ٹیک اسٹیک | Tech Stack  
-- **فرنٹ اینڈ:** HTML5, CSS3  
-- **فونٹ:** [Google Noto Nastaliq Urdu](https://fonts.google.com/noto/specimen/Noto+Nastaliq+Urdu)  
-- **ہوسٹنگ:** GitHub Pages, Netlify  
-
----
-
-## 📖 استعمال کرنے کا طریقہ | How to Use  
-
-### 1. مقامی طور پر چلائیں | Run Locally  
-```bash
-git clone https://github.com/sufii429/film-blog.git
-cd film-blog
-# index.html کو کسی بھی براؤزر میں کھولیں
+- 📸 فلم پوسٹرز کے ساتھ تبصرے
